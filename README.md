@@ -39,9 +39,5 @@ Follow these steps to clone and run the project.
 
 - Visual Studio should restore the necessary NuGet packages automatically when you open the solution.
 
-#### For Node.js Projects
 
-1. Open the terminal in Visual Studio (`View -> Terminal`).
-2. Run the following command to install dependencies:
-   ```sh
 
