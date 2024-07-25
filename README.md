@@ -24,7 +24,7 @@ Follow these steps to clone and run the project.
 
 1. Open Microsoft Visual Studio.
 2. Go to the `File` menu and select `Clone Repository`.
-3. Enter the repository URL: `https://github.com/your-username/muie.git`.
+3. Enter the repository URL: `https://github.com/hzDev3310/XO-game.git`.
 4. Choose a local path to clone the repository.
 5. Click `Clone`.
 
